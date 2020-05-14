@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="backgroundColor">#0E0F19</color>
+    <color name="boxViewColor">#181929</color>
+    <color name="playGreen">#016C22</color>
+    <color name="donutFirstColor">#364DAC</color>
+    <color name="donutSecondColor">#E61725</color>
+    <color name="donutThirdColor">#FB550B</color>
+    <color name="donutFourthColor">#6c16c7</color>
+    <color name="donutFifthColor">#30c9e8</color>
+    <color name="buttonColor">#2F4F73</color>
+    <color name="editTextColor">#2e2f4a</color>
+</resources>

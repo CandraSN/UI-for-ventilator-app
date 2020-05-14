@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rotate xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="ExtraText">
+
+    android:fromDegrees="270"
+    android:toDegrees="270">
+    <shape
+        android:innerRadius="50dp"
+        android:shape="ring"
+        android:thickness="15dp"
+        android:useLevel="true">
+        <solid android:color="@color/donutFirstColor" />
+    </shape>
+
+</rotate>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">apps_ventilator</string>
+    <string name="clinical">Clinical</string>
+    <string name="advanced">Advanced</string>
+    <string name="setup">Setup</string>
+    <string name="_08_17">08:17</string>
+    <string name="_11_mei_2020">11 Mei 2020</string>
+    <string name="setup_for_pmax">Setup for Pmax</string>
+    <string name="fio2">FIO2 (%)</string>
+    <string name="tidal_volume_ml">Tidal Volume (ml)</string>
+    <string name="resp_rate_i_min">Resp Rate (I/min)</string>
+    <string name="peep_cmh2o">PEEP (cmH2O)</string>
+    <string name="i_e_ratio">I:E Ratio</string>
+    <string name="max_plateau_pressure_cmh2o">Max Plateau Pressure (cmH2O)</string>
+    <string name="change_p_max">Change P. max</string>
+    <string name="no_value">null</string>
+    <string name="peak_pressure_cmh2o">Peak Pressure (cmH2O)</string>
+    <string name="tidal_volume_ins_ml">Tidal Volume Ins (ml)</string>
+    <string name="tidal_volume_exp_ml">Tidal Volume Exp (ml)</string>
+    <string name="minute_volume_exp_ml">Minute Volume Exp (ml)</string>
+    <string name="coming_soon">Coming Soon</string>
+</resources>
